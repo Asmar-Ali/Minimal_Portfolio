@@ -135,21 +135,21 @@ export const companies = [
   {
     id: 1,
     name: "Senarios",
-    img: "/senarios.jpg",
+    img: "/senarios.jpeg",
     nameImg: "/cloudName.svg",
   },
   {
     id: 2,
-    name: "Constelle Business  Solutions",
+    name: "Constelle",
     img: "/constelle.jpeg",
     nameImg: "/appName.svg",
   },
-  {
-    id: 3,
-    name: "Stealth Startup",
-    img: "/stealth.jpeg",
-    nameImg: "/hostName.svg",
-  },
+  // {
+  //   id: 3,
+  //   name: "Stealth Startup",
+  //   img: "/stealth.svg",
+  //   nameImg: "/hostName.svg",
+  // },
   {
     id: 4,
     name: "stream",
