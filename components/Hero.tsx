@@ -31,7 +31,7 @@ const Hero = () => {
             Dynamic Web Magician 
           </h2>
           <TextGenerateEffect words="Transforming Concepts into Seamless User Experiences" className="text-center text-[40px] !md:text-5xl !lg:text-6xl" />
-          <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">Hi, I'm Asmar Ali, a FullStack Developer</p>
+          <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">Hi, I&apos;m Asmar Ali, a FullStack Developer</p>
           <a href="#projects">
           <MagicButton title="Show my work" icon={<FaLocationArrow />} position="right" otherClasses=""/>
           </a>
