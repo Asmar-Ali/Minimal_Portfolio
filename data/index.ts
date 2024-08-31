@@ -84,7 +84,7 @@ export const projects = [
     title: "Healthcare Management System",
     des: "Experience Seamless Patients and Appointments Management.",
     img: "/Illustration.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://medverse-two.vercel.app/",
   },
   {
@@ -100,17 +100,17 @@ export const projects = [
     title: "Landing Page",
     des: "A fully responsive landing page developed with state of the art tech stack.",
     img: "/hoobank.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
     link: "https://bankinghooapp.netlify.app",
   },
-  {
-    id: 4,
-    title: "Nike Landing Page Clone",
-    des: "A fully responsive landing page",
-    img: "/nike.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://devnike.netlify.app",
-  },
+  // {
+  //   id: 4,
+  //   title: "Nike Landing Page Clone",
+  //   des: "A fully responsive landing page",
+  //   img: "/nike.png",
+  //   iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+  //   link: "https://devnike.netlify.app",
+  // },
 ];
 
 export const testimonials = [
