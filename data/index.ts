@@ -70,6 +70,7 @@ export const gridItems = [
 ];
 
 export const projects = [
+
   {
     id: 1,
     title: "Ecommerce Store",
@@ -80,6 +81,14 @@ export const projects = [
   },
   {
     id: 2,
+    title: "Healthcare Management System",
+    des: "Experience Seamless Patients and Appointments Management.",
+    img: "/Illustration.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "https://medverse-two.vercel.app/",
+  },
+  {
+    id: 3,
     title: "Fuel Treatment",
     des: "An elegantly designed landing page for a business.",
     img: "/fuel.png",
@@ -87,7 +96,7 @@ export const projects = [
     link: "https://fueltreatment.ng/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Landing Page",
     des: "A fully responsive landing page developed with state of the art tech stack.",
     img: "/hoobank.png",
