@@ -71,14 +71,14 @@ export const gridItems = [
 
 export const projects = [
 
-  {
-    id: 1,
-    title: "Ecommerce Store",
-    des: "Experience Seamless Shopping with an Expertly Crafted eCommerce Store.",
-    img: "/brands.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://brands4cheap.com/",
-  },
+  // {
+  //   id: 1,
+  //   title: "Ecommerce Store",
+  //   des: "Experience Seamless Shopping with an Expertly Crafted eCommerce Store.",
+  //   img: "/brands.png",
+  //   iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+  //   link: "https://brands4cheap.com/",
+  // },
   {
     id: 2,
     title: "Healthcare Management System",
